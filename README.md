@@ -5,17 +5,12 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/hsf-training/cpluspluscourse/master.svg)](https://results.pre-commit.ci/latest/github/hsf-training/cpluspluscourse/master)
-[![gh actions](https://github.com/hsf-training/cpluspluscourse/actions/workflows/build-slides.yml/badge.svg)](https://github.com/hsf-training/cpluspluscourse/actions)
-[![gh actions](https://github.com/hsf-training/cpluspluscourse/actions/workflows/build-exercises.yml/badge.svg)](https://github.com/hsf-training/cpluspluscourse/actions)
-[![gh actions](https://github.com/hsf-training/cpluspluscourse/actions/workflows/publish-slides.yml/badge.svg)](https://github.com/hsf-training/cpluspluscourse/actions)
-
 This repository contains all material for the C++ Course taught at CERN from
-Sebastien Ponce (LHCb).
+Sebastien Ponce (LHCb). Jeff Chang is currently modifying it to fit tutoring needs. There is very slight deviation from original as of right now. 
 
-## Next events
-
-Please check the [Indico agenda](https://indico.cern.ch/category/11733/).
+Please refer to the following for all original work
+![Original Repo](https://img.shields.io/badge/https%3A%2F%2Fgithub.com%2Fhsf-training%2Fcpluspluscourse?label=Original%20Repo
+)
 
 ## 📎 Getting the latest PDF
 
