@@ -2,18 +2,19 @@ Exercises: HowTo
 ===============
 
  - Each exercise is in its own directory and referred to in the following by the name of the directory.
- - Almost each exercise contains a solution.
- - We tried to provide more material than many participants can finish during the sessions. Participants are welcome to finish the more complicated ones in
-   self study, but questions regarding the solutions are welcome in the lecture and especially during the following hands-on sessions.
- - For each day, the exercises are given in order in which they should be done in
+ - Solution has been hidden (trivially, so it is still mostly on you to not look)
+ - There are most material than I will probably teach. You can check the master branch for them.
+ - The exercises are given in order in which they should be done in
    - Essentials: [`ExerciseSchedule_EssentialCourse.md`](ExerciseSchedule_EssentialCourse.md)
    - Advanced: [`ExerciseSchedule_AdvancedCourse.md`](ExerciseSchedule_AdvancedCourse.md)
 
 Getting the code
 ----------------
 
-```bash
-git clone https://github.com/hsf-training/cpluspluscourse.git
+```bash (in your top directory)
+git clone https://github.com/kaichieh121/cpluspluscourse.git
+git fetch
+git checkout student
 cd cpluspluscourse/exercises
 ```
 
