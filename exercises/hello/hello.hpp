@@ -10,7 +10,7 @@ output: bool
 bool is_odd(int n);
 
 /*
-TODO: write a function called print_odd_square(). The function loops through int_array, if
+TODO: write a function called print_even_square(). The function loops through int_array, if
 an element is even, print the square of that number. 
 e.g. 
     n=5, int_array=[0,1,2,3,4]
@@ -21,3 +21,4 @@ input:
 output: NA
 */
 void print_even_square(int n, int* int_array);
+void create_new_text();

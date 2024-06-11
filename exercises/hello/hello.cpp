@@ -4,17 +4,13 @@
 #include <array>
 #include <string>
 
-void printHello(int i) {
-  std::cout << "Hello, world " << i << '\n';
-}
+using namespace std;
 
-bool is_odd(int n) {
-  //TODO: implement this
-  return true;
-}
+// define function here
 
-void print_even_square(int n, int* int_array){
-  //TODO: implement this
+void main(int x, int y) {
+  cin >> "provide a number" >> x >> endl;
+  cin >> "another one" >> y >> endl;
   return;
 }
 

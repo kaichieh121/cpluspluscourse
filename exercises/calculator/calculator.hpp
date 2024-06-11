@@ -1,6 +1,6 @@
 #pragma once
 
-int operate(int num1, int num2, char op);
+int operate(float num1, float num2);
 
 /*
 Define 4 functions, multiple, divide, add, subtract
