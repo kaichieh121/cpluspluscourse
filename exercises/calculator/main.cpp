@@ -10,7 +10,7 @@ int main() {
   The purpose of this program is to simulate calculator
   */
   char op;
-  int num1, num2;
+  int num1;
   cout << "Please enter first number: "<< endl;
   cin >> num1;
   // TODO: using the example above for the first number,
