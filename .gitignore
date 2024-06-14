@@ -14,7 +14,7 @@ exercisesIntro.pdf
 
 # exercises
 build
-*.dSYM
+*.dSYM/
 *.a
 *.o
 *.so
