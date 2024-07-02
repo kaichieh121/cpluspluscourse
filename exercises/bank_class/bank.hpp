@@ -21,6 +21,8 @@ public:
     // paramaterized constructor
     Account(string n, double money=0);
 
+    // define getter and setter functions
+
     // member functions
     void deposit(double money);
     bool withdraw(double money);
