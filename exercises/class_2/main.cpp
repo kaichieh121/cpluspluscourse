@@ -2,6 +2,8 @@
 #include <sstream>
 #include <iostream>
 #include <string>
+#include <stack>
+#include <queue>
 
 using namespace std;
 
@@ -19,5 +21,28 @@ int main() {
     a.off();
     b.off();
 
+
+
+
+    
+    std::stack<int> st;
+
+    // Push elements onto the stack
+
+    // Pop an element from the stack
+
+    // Peek the top element
+
+    std::queue<int> q;
+
+    // Enqueue elements into the queue
+
+    // Dequeue an element from the queue
+
+    // Peek the front element
+
+
     return 0;
+
+
 }
