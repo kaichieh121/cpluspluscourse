@@ -2,24 +2,31 @@
 #include <vector>
 #include <fstream>
 
+using namespace std;
+
 class Graph {
 public:
     Graph(int n) {
+        
     } // Initialize n x n matrix with 0s
     void addNode();
     void addEdge(int src, int dest, bool directed);
     void generateDotFile(const std::string& filename);
+    void display();
 
 private:
     // make a adjacent matrix adjMatrix
+    
 };
 
 void Graph::addNode() {
     // implement add node
+
 }
 
 void Graph::addEdge(int src, int dest, bool directed) {
     // implement add edge
+
 }
 
 void Graph::display() {
